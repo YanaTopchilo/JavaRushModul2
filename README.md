@@ -1,5 +1,5 @@
 # JavaRushModul2
-Island model with simulation of animal and plant life
+Island model with simulation of animal and plant life.
 Параметры (размеры острова, количество животных) задаются в классе Simulation.
 При создании животные и растение рандомно распределяются по острову (задание координат через Random()).
 Общим для всех живых организмов является класс Organisme. Его наследуют классы Plant и Animal (наследники Predator, Herbivor).
